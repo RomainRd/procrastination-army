@@ -10,13 +10,13 @@
   box-sizing: border-box;
   user-select: none;
   border: 0px;
-  font-family: Raleway;
-  font-size: 20px;
-  font-weight: normal;
   outline: 0px;
 }
 
 .btn-yours a {
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: normal;
   text-decoration: none;
   color: white;
   font-weight: bolder;
