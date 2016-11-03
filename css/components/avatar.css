@@ -1,0 +1,9 @@
+.avatar img{
+  border-radius: 100%;
+  position: absolute;
+  right: 5px;
+  height: 10vh;
+  top: 1vh;
+  right: 1vh;
+  opacity: 0.8;
+}

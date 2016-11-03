@@ -1,0 +1,27 @@
+.btn-yours {
+  padding: 12px;
+  padding-bottom: 12px;
+  background-color: #FF0099;
+  color: white;
+  text-shadow: none;
+  box-shadow: 1px 0px 1px #BE3077, 0px 1px 1px hotpink, 2px 1px 1px #BE3077, 1px 2px 1px hotpink, 3px 2px 1px #BE3077, 2px 3px 1px hotpink, 4px 3px 1px #BE3077, 3px 4px 1px hotpink, 5px 4px 1px #BE3077, 4px 5px 1px hotpink, 6px 5px 1px #BE3077;
+  cursor: pointer;
+  display: inline-block;
+  box-sizing: border-box;
+  user-select: none;
+  border: 0px;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: normal;
+  outline: 0px;
+}
+
+.btn-yours a {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+.btn-margin {
+  margin-top: 20px;
+}
